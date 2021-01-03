@@ -11,6 +11,7 @@ def guess(x):
             print('Sorry, guess again. Too high. ')
     
     print(f'Bravo, congrats. You have guessed the number {random_number} correctly')
+#guess(10) 
 
 
 def computer_guess(x):
